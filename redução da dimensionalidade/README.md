@@ -1,0 +1,4 @@
+# dio-reducao-dimensionalidade
+Atividade de conclusão de aula do curso "Especialista em Machine Learning" da DIO.me. Essa atividade consiste em reduzir a dimensionalidade de uma imagem colorida para níveis de cinza e de preto e branco. No notebook localizado neste repositório é feito essa conversão, inicialmente de uma imagem colorida para tons de cinza e depois de tons de cinza para uma imagem em preto e branco.
+
+Essa pasta pode ser baixada pelo arquivo reducao-dimensionalidade.zip encontrada no diretório github pai desta pasta. Foram encontrados diversos problemas ao tentar submeter essa pasta no git, e por isso foi criado o arquivo .zip.
