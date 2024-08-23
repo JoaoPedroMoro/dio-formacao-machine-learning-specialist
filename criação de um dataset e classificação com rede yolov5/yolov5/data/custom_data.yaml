@@ -1,0 +1,9 @@
+path: /content/data_train  # Caminho absoluto para o diretório raiz do dataset
+train: images/train  # Imagens de treino (relativo ao 'path')
+val: images/val      # Imagens de validação (relativo ao 'path')
+test: images/test    # Imagens de teste (opcional e relativo ao 'path')
+
+# Classes
+names:
+  0: dog
+  1: cat
