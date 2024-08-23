@@ -1,2 +1,7 @@
-# dio-formacao-machine-learning-specialist
-Repositório para desenvolvimento dos projetos da Formação "Formação Machine Learning Specialist" da DIO.me
+# dio-machine-learning-specialist
+Repositório para desenvolver os códigos durante a formação de machine learning specialist da DIO.me
+
+## Atividades já realizadas:
+- Transfer Learning
+- Redução de Dimensionalidade
+- Métricas de Avaliação
